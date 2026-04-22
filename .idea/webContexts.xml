@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebContextManager">
+    <option name="state">
+      <map>
+        <entry key="file://$PROJECT_DIR$/web/Jsp/Admin/dashboard.jsp" value="file://$PROJECT_DIR$/web/Jsp/Admin" />
+        <entry key="file://$PROJECT_DIR$/web/Jsp/Dash/users.jsp" value="file://$PROJECT_DIR$/web/Jsp/Dash" />
+        <entry key="file://$PROJECT_DIR$/web/Jsp/front/REindex.jsp" value="file://$PROJECT_DIR$/web/Jsp/front" />
+        <entry key="file://$PROJECT_DIR$/web/Jsp/front/books/bookDetail.jsp" value="file://$PROJECT_DIR$/web/Jsp/front/books" />
+        <entry key="file://$PROJECT_DIR$/web/Jsp/front/books/bookList.jsp" value="file://$PROJECT_DIR$/web/Jsp/front/books" />
+        <entry key="file://$PROJECT_DIR$/web/Jsp/front/books/categoryBooks.jsp" value="file://$PROJECT_DIR$/web/Jsp/front/books" />
+        <entry key="file://$PROJECT_DIR$/web/Jsp/front/books/hotBooks.jsp" value="file://$PROJECT_DIR$/web/Jsp/front/books" />
+        <entry key="file://$PROJECT_DIR$/web/Jsp/front/books/searchResult.jsp" value="file://$PROJECT_DIR$/web/Jsp/front/books" />
+        <entry key="file://$PROJECT_DIR$/web/Jsp/front/cart.jsp" value="file://$PROJECT_DIR$/web/Jsp/front" />
+        <entry key="file://$PROJECT_DIR$/web/Jsp/front/common/header.jsp" value="file://$PROJECT_DIR$/web/Jsp/front/common" />
+        <entry key="file://$PROJECT_DIR$/web/Jsp/front/common/header2.jsp" value="file://$PROJECT_DIR$/web/Jsp/front/common" />
+        <entry key="file://$PROJECT_DIR$/web/Jsp/front/common/nav.jsp" value="file://$PROJECT_DIR$/web/Jsp/front/common" />
+        <entry key="file://$PROJECT_DIR$/web/Jsp/front/index-out.jsp" value="file://$PROJECT_DIR$/web/Jsp/front" />
+        <entry key="file://$PROJECT_DIR$/web/Jsp/front/index.jsp" value="file://$PROJECT_DIR$/web/Jsp/front" />
+        <entry key="file://$PROJECT_DIR$/web/Jsp/front/login.jsp" value="file://$PROJECT_DIR$/web/Jsp/front" />
+        <entry key="file://$PROJECT_DIR$/web/Jsp/front/menu_search.jsp" value="file://$PROJECT_DIR$/web/Jsp/front" />
+        <entry key="file://$PROJECT_DIR$/web/Jsp/front/orders/order_detail.jsp" value="file://$PROJECT_DIR$/web/Jsp/front/orders" />
+        <entry key="file://$PROJECT_DIR$/web/Jsp/front/register.jsp" value="file://$PROJECT_DIR$/web/Jsp/front" />
+        <entry key="file://$PROJECT_DIR$/web/Jsp/front/user/userProfile.jsp" value="file://$PROJECT_DIR$/web/Jsp/front/user" />
+      </map>
+    </option>
+  </component>
+</project>
